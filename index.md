@@ -19,7 +19,7 @@ Passionate about Quantitative Research and Machine Learning.
 - **Core Idea**: Real-time detection of Out-Of-Distribution (OOD) market regimes using rolling 1D Wasserstein distance ($W_1$) and Garman-Klass volatility on BTC/USDT 1h.
 - **Model Risk Layer**: Interpretable surrogate decision tree (CART) trained on directional error residuals from Amazon Chronos-Bolt to isolate regime failure boundaries.
 - **Capital Preservation**: Deterministic 100% Cash circuit-breaker filter, boosting directional accuracy to 56.5% in active regimes while neutralizing crash regimes.
-- **Engineering**: Vectorized net-of-fees backtest engine (10 bps frictions), modular Python package (src/), and interactive analytics dashboard.
+- **Engineering**: Vectorized net-of-fees backtest engine (10 bps frictions), modular Python package (src/), and multi-panel visual analytics.
 - 🔗 [Explore Code & Documentation on GitHub →](https://github.com/housniCS/wasserstein-circuit-breaker)
 
 ---
