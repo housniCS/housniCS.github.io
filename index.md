@@ -34,6 +34,9 @@ Passionate about Quantitative Research and Machine Learning.
 
 ### **Polytech Lyon** - Computer Science *(2024 - 2027)*
 - Engineering Degree in Computer Science
+- **Key Coursework & Topics:**
+  - **Machine Learning & AI:** Deep Learning, Reinforcement Learning, Q-Learning, Deep Reinforcement Learning, Decision Trees
+  - **Operations Research & Optimization:** Linear Programming (Programmation linéaire), Metaheuristics (Métaheuristiques), Genetic Algorithms (Algorithmes génétiques)
 
 ---
 
