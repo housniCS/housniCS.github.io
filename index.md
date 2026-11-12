@@ -1,14 +1,6 @@
 # Housni Rakotoarisoa
 
-Passionate about Quantitative Research and Machine Learning.
-
----
-
-## Interests
-
-- **Quantitative Research** & Systematic Trading
-- **Machine Learning** & Deep Learning
-- **Financial Mathematics** & Optimal Transport
+Passionate about Software Engineering and Machine Learning.
 
 ---
 
