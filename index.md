@@ -1,5 +1,3 @@
-# Housni Rakotoarisoa
-
 Passionate about Software Engineering and Machine Learning.
 
 ---
