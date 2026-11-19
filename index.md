@@ -1,7 +1,3 @@
-Passionate about Software Engineering and Machine Learning.
-
----
-
 ## Projects
 
 ### [Wasserstein Circuit-Breaker](https://github.com/housniCS/wasserstein-circuit-breaker)
